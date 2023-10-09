@@ -1,2 +1,3 @@
 # Troller
-The whole point is to open so many tabs of Never Gonna Give You Up that your computer lags
+
+<a>https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley</a>
